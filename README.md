@@ -1,6 +1,6 @@
 # reub's theme 0.1 Edition
 
 ## Preview
-![Preview](https://media.discordapp.net/attachments/755792376873615411/755802894544011336/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/808703720049213460/809177605475139594/unknown.png)
 
 
