@@ -1,5 +1,7 @@
 @use "./src/topbar.scss";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
 
 
 @font-face {
@@ -1797,6 +1799,16 @@ body {
 
 .controlButton-2MhVEL {
     margin: 0 0px 0 9px;
+    border-radius: 100%;
+    transition: all .3s;
+}
+
+.controlButton-2MhVEL:hover {
+    background-color: #353535;
+}
+
+button.controlButton-2MhVEL.centerButton-3CaNcJ.colorable-1bkp8v.primaryDark-3mSFDl.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN:hover {
+    background-color: #353535 !important;
 }
 
 .colorable-1bkp8v.white-3GPOIp,
@@ -1815,7 +1827,7 @@ body {
 }
 
 .colorable-1bkp8v.red-33-Lnk:hover {
-    background-color: rgba(255, 0, 0, 0.5) !important;
+    background-color: #f53a35!important;
 }
 
 .userPopout-3XzG_A {
@@ -2002,3 +2014,5 @@ body {
 .cozy-3raOZG.wrapper-2a6GCs:hover {
     background-color: #40404030 !important;
 }
+
+
